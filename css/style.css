@@ -180,7 +180,7 @@ cursor: pointer;
 .carousel-indicators .active  {
     opacity: 1;
     background-color: var(--main);
-    width: 35px;
+    width: 35px
 }
 /* end client section */
 /* start work section */
